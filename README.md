@@ -1,2 +1,4 @@
 # tbcs-blog-snippets
-Contains code snippets related to blog posts which are not full blown applications on their own.
+On the TestBench blog (https://www.testbench.com/blog), we post tutorials, how-tos, and hacks that make working with TestBench easier.
+
+This GIT contains all code snippets from the blog posts.
